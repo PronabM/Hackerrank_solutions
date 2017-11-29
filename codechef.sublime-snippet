@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+/*input
+ 
+*/
+     
+/*
+ * @pronabm
+ * Pronab Mukherjee
+ */
+ 
+#include <bits/stdc++.h>
+#define MOD 1000000007
+#define MOD1 1000000009
+#define tc int t; scanf("%d",&t); while(t--)
+#define loop(i,start,end) for((i)=(start);(i)<end;(i)++)
+#define lli long long int
+#define arr(a,i,n) loop(i,0,n) scanf("%d",&a[i])
+#define parr(a,i,n) loop(i,0,n) printf("%d ",a[i])
+ 
+using namespace std;
+ 
+int main()
+{
+	return 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>c</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
